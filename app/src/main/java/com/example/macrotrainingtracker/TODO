@@ -1,0 +1,4 @@
+TODO:
+1. Implement the functionality to edit, delete food library items
+2. fix the light mode some elements are not changing color (eg. the text color in the food library, button in library, bottom navigation bar, home screen text color and general, calendar tab, menu tab, profile tab not changing text color, add plan element, parameters)
+3. fix wierd top phone bar color in light mode
